@@ -1,0 +1,7 @@
+C:\Users\Stefan\Desktop\TemaPiu\Tema\Biblioteca\NivelAccesDate\bin\Debug\NivelAccesDate.dll
+C:\Users\Stefan\Desktop\TemaPiu\Tema\Biblioteca\NivelAccesDate\bin\Debug\NivelAccesDate.pdb
+C:\Users\Stefan\Desktop\TemaPiu\Tema\Biblioteca\NivelAccesDate\bin\Debug\EvidentaBiblioteca.dll
+C:\Users\Stefan\Desktop\TemaPiu\Tema\Biblioteca\NivelAccesDate\bin\Debug\EvidentaBiblioteca.pdb
+C:\Users\Stefan\Desktop\TemaPiu\Tema\Biblioteca\NivelAccesDate\obj\Debug\NivelAccesDate.csproj.CopyComplete
+C:\Users\Stefan\Desktop\TemaPiu\Tema\Biblioteca\NivelAccesDate\obj\Debug\NivelAccesDate.dll
+C:\Users\Stefan\Desktop\TemaPiu\Tema\Biblioteca\NivelAccesDate\obj\Debug\NivelAccesDate.pdb

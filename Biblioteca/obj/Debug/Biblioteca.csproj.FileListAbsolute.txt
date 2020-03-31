@@ -1,0 +1,11 @@
+C:\Users\Stefan\Desktop\TemaPiu\Tema\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Users\Stefan\Desktop\TemaPiu\Tema\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Users\Stefan\Desktop\TemaPiu\Tema\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\Stefan\Desktop\TemaPiu\Tema\Biblioteca\Biblioteca\bin\Debug\EvidentaBiblioteca.dll
+C:\Users\Stefan\Desktop\TemaPiu\Tema\Biblioteca\Biblioteca\bin\Debug\EvidentaBiblioteca.pdb
+C:\Users\Stefan\Desktop\TemaPiu\Tema\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+C:\Users\Stefan\Desktop\TemaPiu\Tema\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.CopyComplete
+C:\Users\Stefan\Desktop\TemaPiu\Tema\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Users\Stefan\Desktop\TemaPiu\Tema\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\Stefan\Desktop\TemaPiu\Tema\Biblioteca\Biblioteca\bin\Debug\NivelAccesDate.dll
+C:\Users\Stefan\Desktop\TemaPiu\Tema\Biblioteca\Biblioteca\bin\Debug\NivelAccesDate.pdb
